@@ -1,0 +1,16 @@
+   persona
+
+NAME              DON D
+
+LOCATION          49 cleta hall
+                  nothyork ontario
+age               18
+JOB               graphic designer
+                  @vavadesigns
+GENDER            male
+
+PURPOSE OF VISIT  shopping 
+INCOME            $10000
+
+COMMUNICATION PR-
+FERENCES          has an assistant screen
